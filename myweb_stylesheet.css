@@ -1,3 +1,5 @@
+/*Background video*/
+
 .fullscreen-bg {
     position: fixed;
     top: 0;
@@ -16,11 +18,24 @@
     height: auto;
 }
 
+
+/*intro block*/
+.intro-block{
+    text-align: center;
+}
+
+/*Text*/
 h1 {
     color: white;
-    opacity: 0.8;
-    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    text-align: center;
+    font-size: 250%;
+    opacity: 0.66;
+    font-family: Michroma;
     margin-top: 18%;
 
+}
+
+.links {
+    font-family: Michroma;
+    color: white;
+    opacity: 0.66;
 }
