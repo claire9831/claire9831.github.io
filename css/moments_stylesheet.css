@@ -1,0 +1,26 @@
+/*TOP BLOCK ELEMENTS*/
+.top-block{
+	background-image: url(visuals/pics/moments-top-bg.JPG);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 15% 0% 15% 0%;
+	margin: -20px -10px -20px -10px;
+}
+
+h1 {
+    color: yellow;
+    font-size: 250%;
+    opacity: 0.75;
+    font-family: Michroma;
+    text-align: center;
+}
+
+.top-text{
+    color: yellow;
+    font-size: 250%;
+    opacity: 0.75;
+    font-family: Michroma;
+    text-align: center;
+    font-size: 80%;
+}
