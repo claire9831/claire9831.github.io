@@ -1,0 +1,91 @@
+/*TOP BLOCK ELEMENTS*/
+.top-block{
+	background-image: url(visuals/pics/sensual-top-bg.JPG);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    padding-bottom:15%;
+}
+
+h1 {
+    color: #D4FE01;
+    font-size: 250%;
+    opacity: 0.5;
+    font-family: Michroma;
+    text-align: center;
+    padding-top: 13%;
+}
+
+.home-button{
+    margin: 1%;
+    color: white;
+    font-family: michroma;
+}
+
+.top-text{
+    color: #D4FE01;
+    font-size: 250%;
+    opacity: 0.75;
+    font-family: Michroma;
+    text-align: center;
+    font-size: 80%;
+}
+
+/* NAVIGATION BAR ELEMENTS*/
+.link-block{
+    padding: 3px;
+    background-color: #D4FE01;
+    opacity: 0.8;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.nav-button {
+  float:left;
+}
+
+.nav-button:hover{
+    background-color: lightsalmon;
+}
+
+.nav-link {
+  display: block;
+  color: black;
+  opacity: 0.5;
+  font-family: Michroma;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* DANIEL BLOCK ELEMENTS */
+.sensual-hedgehog{
+    background-image: url(visuals/pics/sensual-hedgehog-bg.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.sensual-hedgehog-header{
+    color: mistyrose;
+    font-size: 200%;
+    font-family: Michroma;
+    opacity:1;
+    text-align: left;
+    margin-bottom: 10%;
+}
+.sensual-hedgehog-text{
+    padding-left:25%;
+    text-align: left;
+    color: lavenderblush;
+    opacity: 0.9;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    /*font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;*/
+    line-height: 2;
+}
