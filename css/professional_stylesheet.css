@@ -1,0 +1,47 @@
+/*TOP BLOCK ELEMENTS*/
+.top-block{
+	background-image: url(visuals/pics/professional-top-bg.JPG);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+    padding-bottom:15%;
+}
+
+h1 {
+    color: aquamarine;
+    font-size: 250%;
+    opacity: 0.5;
+    font-family: Michroma;
+    text-align: center;
+    padding-top: 13%;
+}
+
+.home-button{
+    margin: 1%;
+    color: white;
+    font-family: michroma;
+}
+
+.top-text{
+    color: aquamarine;
+    font-size: 250%;
+    opacity: 0.75;
+    font-family: Michroma;
+    text-align: center;
+    font-size: 80%;
+}
+
+/* TEXT BLOCK ELEMENTS*/
+
+.text-block {
+    text-align: left;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    background-color: teal;
+    padding: 8%;
+    line-height: 1.5;
+}
+
+.prof-text{
+    color: honeydew;
+    opacity: 0.5;
+}
