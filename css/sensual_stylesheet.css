@@ -92,3 +92,11 @@ ul {
     /*font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;*/
     line-height: 2;
 }
+
+.sensual-shasha{
+  background-image: url(visuals/pics/sensual-shasha-bg.JPG);
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
