@@ -66,7 +66,36 @@ ul {
   text-decoration: none;
 }
 
-/* DANIEL BLOCK ELEMENTS */
+
+/* siwei BLOCK ELEMENTS */
+.sensual-siwei{
+    background-image: url(visuals/pics/sensual-siwei-bg.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+}
+
+.sensual-siwei-header{
+    color: aquamarine;
+    font-size: 200%;
+    font-family: Michroma;
+    opacity:0.5;
+    text-align: left;
+    margin-bottom: 10%;
+}
+
+.sensual-siwei-text{
+    padding-left:25%;
+    text-align: left;
+    color: navajowhite;
+    opacity: 0.8;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    /*font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;*/
+    line-height: 2;
+}
+
+/* HEDGEHOG BLOCK ELEMENTS*/
 .sensual-hedgehog{
     background-image: url(visuals/pics/sensual-hedgehog-bg.JPG);
     background-position: center;
