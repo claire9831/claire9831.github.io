@@ -1,5 +1,5 @@
 body{
-  margin:0;
+  margin: 0;
 }
 /*TOP BLOCK ELEMENTS*/
 .top-block{
@@ -7,7 +7,7 @@ body{
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-    padding-bottom:15%;
+  padding-bottom:15%;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
 /* NAVIGATION BAR ELEMENTS*/
 .link-block{
     padding: 3px;
-    background-color: yellow;
+    background-color: #FDFD27;
     opacity: 0.9;
 }
 
@@ -86,8 +86,14 @@ ul {
 }
 .moment-daniel-text{
     text-align: left;
-    color: lightsalmon;
-    opacity: 0.68;
-    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: #FAFA53;
+    opacity: 0.6;
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     line-height: 1.5;
+}
+
+.flex-container{
+  flex-wrap:nowrap;
+  align-items: center;
+  background-color:black;
 }

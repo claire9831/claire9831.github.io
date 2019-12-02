@@ -1,7 +1,7 @@
-body{
-    margin:0;
-}
 /*Background video*/
+body{
+    margin: 0px;
+}
 
 .fullscreen-bg {
     position: fixed;
@@ -23,6 +23,7 @@ body{
 
 /*intro block*/
 .intro-block{
+    position: center;
     text-align: center;
 }
 
