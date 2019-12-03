@@ -35,35 +35,22 @@ h1 {
 }
 
 /* NAVIGATION BAR ELEMENTS*/
-.link-block{
+.navbar{
     padding: 3px;
     background-color: #FDFD27;
     opacity: 0.9;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-.nav-button {
-  float:left;
-}
-
-.nav-button:hover{
-    background-color: darkslateblue;
-}
-
 .nav-link {
-  display: block;
   color: black;
   opacity: 0.5;
   font-family: Michroma;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+}
+
+.nav-link:hover{
+    background-color: purple;
 }
 
 /* DANIEL BLOCK ELEMENTS */
