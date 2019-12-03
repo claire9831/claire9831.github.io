@@ -22,19 +22,23 @@ body{
 
 
 /*intro block*/
+
 .intro-block{
     position: absolute;
     text-align: center;
-    z-index: 15;
+    width: 500px;
+    height: 200px;
     top: 50%;
     left: 50%;
-    margin: -100px 0 0 -150px;
+    margin-left: -250px; /* Negative half of width. */
+    margin-top: -100px; /* Negative half of height. */
 }
+
 
 /*Text*/
 h1 {
     color: white;
-    font-size: 2.5vw;
+    font-size: 230%;
     opacity: 0.66;
     font-family: Michroma;
 }
