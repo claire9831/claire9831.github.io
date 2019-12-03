@@ -1,6 +1,26 @@
 body{
   margin: 0;
 }
+
+.btn {
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  left: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: yellow; /* Set a background color */
+  opacity: 0.4;
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 8px; /* Some padding */
+  border-radius: 4px; /* Rounded corners */
+  font-size: 100%; /* Increase font size */
+}
+
+.btn:hover {
+  background-color: aquamarine; /* Add a dark-grey background on hover */
+}
+
 /*TOP BLOCK ELEMENTS*/
 .top-block{
 	background-image: url(visuals/pics/moments-top-bg.JPG);
@@ -21,7 +41,7 @@ h1 {
 
 .home-button{
     margin: 1%;
-    color: white;
+    color: yellow;
     font-family: michroma;
 }
 
