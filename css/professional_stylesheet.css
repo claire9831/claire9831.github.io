@@ -13,7 +13,7 @@ body{
 h1 {
     color: violet;
     font-size: 250%;
-    opacity: 0.5;
+    opacity: 0.6;
     font-family: Michroma;
     text-align: center;
     padding-top: 13%;
@@ -21,14 +21,14 @@ h1 {
 
 .home-button{
     margin: 1%;
-    color: white;
+    color: violet;
     font-family: michroma;
 }
 
 .top-text{
     color:violet;
     font-size: 250%;
-    opacity: 0.75;
+    opacity: 0.5;
     font-family: Michroma;
     text-align: center;
     font-size: 80%;
@@ -39,12 +39,17 @@ h1 {
 .text-block {
     text-align: left;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    background-color: #A088A6;
+    background-color: #D2C5EA;
     padding: 8%;
     line-height: 1.5;
 }
 
 .prof-text{
-    color: yellow;
-    opacity: 0.5;
+    color: navy;
+    opacity: 0.6;
+}
+
+.prof-resume{
+    color: hotpink;
+    opacity: 0.9;
 }
