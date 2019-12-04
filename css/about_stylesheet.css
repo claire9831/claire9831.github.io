@@ -44,11 +44,11 @@ h1 {
 }
 
 /* photo gallery elements */
-@media (min-width: 768px) {
-.carousel-multi-item-2 .col-md-3 {
-float: left;
-width: 25%;
-max-width: 100%; } }
-
-.carousel-multi-item-2 .card img {
-border-radius: 0px; }
+.h3-responsive{
+    font-size: 150%;
+    opacity: 0.6;
+}
+.p-responsive{
+    font-size:100%;
+    opacity: 0.6;
+}
