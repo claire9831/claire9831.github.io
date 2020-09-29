@@ -11,7 +11,7 @@ body{
 }
 
 h1 {
-    color: violet;
+    color: white;
     font-size: 250%;
     opacity: 0.6;
     font-family: Michroma;
@@ -26,7 +26,7 @@ h1 {
 }
 
 .top-text{
-    color:violet;
+    color:white;
     font-size: 250%;
     opacity: 0.5;
     font-family: Michroma;
@@ -39,17 +39,17 @@ h1 {
 .text-block {
     text-align: left;
     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    background-color: #D2C5EA;
+    background-color: black;
     padding: 8%;
     line-height: 1.5;
 }
 
 .prof-text{
-    color: navy;
+    color: white;
     opacity: 0.6;
 }
 
 .prof-resume{
-    color: hotpink;
-    opacity: 0.9;
+    color: yellow;
+    opacity: 0.8;
 }
