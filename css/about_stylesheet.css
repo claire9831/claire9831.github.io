@@ -1,30 +1,5 @@
-body{
-    margin:0;
-}
-
-/*TOP BLOCK ELEMENTS*/
-.top-block{
-	background-image: url(visuals/pics/about-top-bg.JPG);
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-    padding-bottom:15%;
-}
-
-
-h1 {
-    color: yellow;
-    font-size: 250%;
-    opacity: 0.5;
-    font-family: Michroma;
-    text-align: center;
-    padding-top: 13%;
-}
-
-.home-button{
-    margin: 1%;
-    color: white;
-    font-family: michroma;
+.btn:hover {
+  background-color: yellow; /* Add a dark-grey background on hover */
 }
 
 /* TEXT BLOCK ELEMENTS*/
