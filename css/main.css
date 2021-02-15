@@ -62,10 +62,8 @@ body{
   padding: 8px; /* Some padding */
   border-radius: 4px; /* Rounded corners */
   font-size: 100%; /* Increase font size */
+  text-align: right;
   list-style-type:none;
-}
-
-.navbar-float-btn {
   font-family: Michroma;
 }
 
